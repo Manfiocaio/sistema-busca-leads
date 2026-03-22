@@ -6,7 +6,7 @@ from datetime import datetime
 
 # ================= CONFIG =================
 
-GOOGLE_API_KEY = "AIzaSyDacHZaAwAJxRLlw433toGMptPL_Vo1ASs"
+GOOGLE_API_KEY = "Cole sua API Google Places aqui"
 
 CIDADES = [
     "Votorantim, SP",
